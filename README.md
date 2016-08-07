@@ -7,6 +7,7 @@ its an ict company website
  
  2.Foundation framework
  
- 3. CSS
  
- 4.Javasript
+ 3.Javasript
+
+ 4. CSS
