@@ -159,6 +159,7 @@ header #toggle:hover .menubars:after {
 .menubars:after {
   top: 8px;
 }
+/*menu  bar */
 .menubars:after, .menubars:before {
   content: '';
   display: block;
